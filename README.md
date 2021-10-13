@@ -13,4 +13,4 @@ e.g. for the Sine example, run:
 
 `java tiny_gp 42 data/sin-data.txt`  
 
-Have many funs :grinning:
+Have fun :grinning:
